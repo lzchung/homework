@@ -1,4 +1,4 @@
-{
+[
   {
     "name":"Pixel 3",
     "price":27700,
@@ -14,4 +14,4 @@
     "price":12000,
     "description":"最新的 Chromebook 產品。"
   }
-}
+]
